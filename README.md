@@ -1,16 +1,6 @@
-# StarAdmin Free Angular Admin Template
 
 
-StarAdmin Free Angular Admin Template is a free admin template based on Bootstrap 4. The template is built using the framework NG-Bootstrap.
 
-StarAdmin Free Angular Admin Template is a completely responsive and mobile-first admin template that provides a great foundation for your Angular + Bootstrap project.
-This remarkably flexible and highly customizable template helps you create an amazing UI for your admin panel.
-
-## Demo
-
-Visit: https://www.bootstrapdash.com/demo/star-admin-angular/
-
-[![N|Solid](screenshot.jpg)](http://www.bootstrapdash.com/demo/star-admin-angular)
 
 ## Installation
 
@@ -38,10 +28,10 @@ StarAdmin Free Angular Admin Template/
 
 ``` bash
 # clone the repo
-$ git clone https://github.com/BootstrapDash/StarAdmin-Free-Angular-Admin-Template.git
+$ git clone https://github.com/vilgaxbaha/admin-dashboard.github.io.git
 
 # go into app's directory
-$ cd StarAdmin-Free-Angular-Admin-Template
+$ cd Admin dashboard
 
 # install dependencies
 npm install
@@ -52,7 +42,3 @@ ng serve
 # build for production with minification
 ng build
 ```
-
-### Go Premium!!
-
-Do you need a template with more features and functionalities? Get more with our collection of the premium template with more plugins, eye catching animations, UI components, and sample pages all fitting together with a high-quality design. Visit https://www.bootstrapdash.com for more admin templates.
